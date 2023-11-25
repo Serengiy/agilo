@@ -6,7 +6,6 @@ import MySelect from "@/Components/MySelect.vue";
 import {useForm, usePage} from "@inertiajs/vue3";
 import {ref} from "vue";
 import InputLabel from "@/Components/InputLabel.vue";
-import {n} from "../../../../public/build/assets/app-6316c137.js";
 
 const projects = usePage().props.projects
 const project = usePage().props.project

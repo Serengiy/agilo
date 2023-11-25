@@ -4,7 +4,6 @@ import AppLayout from "@/Layouts/AppLayout.vue";
 import {usePage} from "@inertiajs/vue3";
 import {ref} from "vue";
 import Modal from "@/Components/Modal.vue";
-import {r} from "../../../../public/build/assets/app-6316c137.js";
 const users =usePage().props.users
 const modalIsOn = ref(false)
 const userToDelete = ref({
