@@ -15,7 +15,7 @@
 
 #### 4. Запуск
     - php artisan serve
-    - php artisan npm run dev
+    - npm run dev
 
 После всех шагов выполнения проект будет доступен к использованию.
 
